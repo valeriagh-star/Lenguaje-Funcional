@@ -60,3 +60,16 @@ object FuncionalTemporizador {
     println("Temporizador terminado.")
   }
 }
+
+/** La salida esperada de este código sería:  
+ *  Iniciando temporizador funcional...
+ *  El tiempo vuela y nunca regresa...
+ *  Ejecución número: 3
+ *  El tiempo vuela y nunca regresa...
+ *  Ejecución número: 2
+ *  El tiempo vuela y nunca regresa...
+ *  Ejecución número: 1
+ *  Temporizador terminado. 
+ *  (haciendo una pausa de un segundo entre cada ejecución)
+ */
+

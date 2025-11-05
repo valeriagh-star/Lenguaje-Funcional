@@ -1,6 +1,7 @@
 // ===============================================
-// Ejemplo: Paso de una función como parámetro en Scala
-// Autor: García Herrera Valeria
+// Tema: Paso de una función como parámetro en Scala
+// Editor: García Herrera Valeria
+// Creado el 04 de noviembre 2025
 // Descripción:Este programa demuestra cómo pasar una función como parámetro y ejecutarla repetidamente con una pausa entre ejecuciones.
 // ===============================================
 
@@ -15,7 +16,7 @@ object FuncionalTemporizador {
    * Función que ejecuta una acción una vez por segundo, n veces.
    * Se implementa de manera recursiva (sin bucles imperativos).
    *
-   * @param accion función que no recibe parámetros ni devuelve valor
+   * @param acción función que no recibe parámetros ni devuelve valor
    * @param n número de veces que se ejecutará la acción
    */
   

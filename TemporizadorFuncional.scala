@@ -3,6 +3,9 @@
 // Editor: García Herrera Valeria
 // Creado el 04 de noviembre 2025
 // Descripción:Este programa demuestra cómo pasar una función como parámetro y ejecutarla repetidamente con una pausa entre ejecuciones.
+// Referencias: 
+// Lombardo, D. (2017, agosto 19). Async action in scala. Standard In. https://lombardo-chcg.github.io/languages/2017/08/19/async-action-in-scala.html 
+// A Scala Tutorial for Java Programmers. (2022, abril 25). Scala Documentation. https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html
 // ===============================================
 
 import scala.concurrent.duration._
